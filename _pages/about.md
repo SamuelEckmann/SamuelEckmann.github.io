@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This website is currently under construction!{: .notice}
+This website is currently under construction!
+{: .notice}
 
 I am a postdoctoral research fellow at the Computational and Biological Learning Lab (CBL) at the Department of Engineering of the University of Cambridge.
 My research focuses on how neural circuits give rise to complex cognitive functions. I use theoretical and computational methods to investigate the computational principles of biological neural networks.
