@@ -17,5 +17,5 @@ My research focuses on how neural circuits give rise to complex cognitive functi
 During my Ph.D., I showed how networks of excitatory and inhibitory neurons with rich computational functions can emerge from realistic plasticity mechanisms while the statistical structure of their inputs became reflected in their recurrent connectivity.
 Currently, I work on generalising these models to episodic memory circuits in the hippocampus. My hope is that in the future, a better understanding of these circuits will help to understand why we remember some experiences but not others and how memory acquisition can be facilitated or disturbed.
 
-See my [CV](/files/cv.pdf) and [research projects](/research) for additional details.
+See my [CV](/cv) and [past research projects](/projects) for additional details.
 

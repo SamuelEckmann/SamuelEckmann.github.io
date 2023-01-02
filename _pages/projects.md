@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
-title: "Projects"
-excerpt: "Research projects"
+title: "Past projects"
+excerpt: "Past research projects"
 author_profile: true
 redirect_from: 
   - /projects.html
@@ -10,10 +10,18 @@ redirect_from:
 ## “Synapse-type-specific competitive learning forms functional recurrent networks”
 [Eckmann & Gjorgjieva, 2022, bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.11.483899v1)
 
-Cortical networks exhibit complex stimulus-response patterns that are based on the recurrent interactions between excitatory and inhibitory neurons. However, it is unclear how the required synaptic connectivity can emerge from biological plasticity mechanisms. Using theory and modeling, we demonstrate how a wide range of cortical response properties can arise from Hebbian learning that is stabilized by the synapse-type-specific competition for synaptic resources. In plastic recurrent circuits, this competition enables the formation and decorrelation of inhibition-balanced receptive fields. Networks develop an assembly structure with stronger synaptic connections between similarly tuned neurons and exhibit response normalization and visual center-surround suppression. These results demonstrate how neurons can self-organize into functional networks and suggest an essential role for synapse-type-specific competitive learning in the formation of cortical circuits.
+<!-- ![image-left](/images/norm.png){: .align-left}{:style="width:60%"} -->
+![image-left](/images/stsp.png){: .align-right}{:style="width:60%"}
+
+Cortical networks exhibit complex stimulus-response patterns that are based on the recurrent interactions between excitatory and inhibitory neurons. However, it is unclear how the required synaptic connectivity can emerge from biological plasticity mechanisms. Using theory and modeling, we demonstrate how a wide range of cortical response properties can arise from Hebbian learning that is stabilized by the synapse-type-specific competition for synaptic resources.
+In plastic recurrent circuits, this competition enables the formation and decorrelation of inhibition-balanced receptive fields. Networks develop an assembly structure with stronger synaptic connections between similarly tuned neurons and exhibit response normalization and visual center-surround suppression. These results demonstrate how neurons can self-organize into functional networks and suggest an essential role for synapse-type-specific competitive learning in the formation of cortical circuits.
+
+
 
 ## “Active efficient coding explains the development of binocular vision and its failure in amblyopia”
 [Eckmann et al., 2020, PNAS](https://www.pnas.org/doi/10.1073/pnas.1908100117)
+
+![image-left](/images/aec.png){: .align-left}{:style="width:40%"}
 
 Brains must operate in an energy-efficient manner. The classic efficient coding hypothesis states that sensory systems achieve this by adapting neural representations to the statistics of sensory input signals. Importantly, however, these
 statistics are shaped by the organism’s behavior and how it samples information from
