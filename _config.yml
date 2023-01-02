@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Samuel Eckmann"
-  avatar           : "images/pic.jpg"
+  avatar           : "pic.jpg"
   bio              : "Theoretical neuroscientist interested in neural circuits, E-I balance, and biological learning."
   location         : "Cambridge, UK"
   employer         :
