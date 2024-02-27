@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## “Synapse-type-specific competitive learning forms functional recurrent networks”
-[Eckmann & Gjorgjieva, 2022, bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.11.483899v1)
+[Eckmann et al., 2022, bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.11.483899v3)
 
 <!-- ![image-left](/images/norm.png){: .align-left}{:style="width:60%"} -->
 ![image-left](/images/stsp.png){: .align-right}{:style="width:60%"}
