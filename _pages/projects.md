@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 ## “Synapse-type-specific competitive learning forms functional recurrent networks”
-[Eckmann et al., 2022, bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.11.483899v3)
+[Eckmann et al., 2024, PNAS](/files/Eckmann2024.pdf)
 
 <!-- ![image-left](/images/norm.png){: .align-left}{:style="width:60%"} -->
 ![image-left](/images/stsp.png){: .align-right}{:style="width:60%"}
 
-Cortical networks exhibit complex stimulus-response patterns that are based on the recurrent interactions between excitatory and inhibitory neurons. However, it is unclear how the required synaptic connectivity can emerge from biological plasticity mechanisms. Using theory and modeling, I demonstrate how a wide range of cortical response properties can arise from Hebbian learning that is stabilized by the synapse-type-specific competition for synaptic resources.
+Cortical networks exhibit complex stimulus-response patterns that are based on the recurrent interactions between excitatory and inhibitory neurons. However, it is unclear how the required synaptic connectivity can emerge from biological plasticity mechanisms. Using theory and modeling, I demonstrate how a wide range of cortical response properties can arise from online Hebbian learning that is stabilized by the synapse-type-specific competition for synaptic resources.
 In plastic recurrent circuits, this competition enables the formation and decorrelation of inhibition-balanced receptive fields. Networks develop an assembly structure with stronger synaptic connections between similarly tuned neurons and exhibit response normalization and visual center-surround suppression. These results demonstrate how neurons can self-organize into functional networks and suggest an essential role for synapse-type-specific competitive learning in the formation of cortical circuits.
 
 
