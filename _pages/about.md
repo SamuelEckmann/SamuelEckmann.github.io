@@ -15,5 +15,5 @@ In my research, I try to understand how neural circuits develop and operate. For
 During my Ph.D., I demonstrated how recurrent networks with rich computational functions can emerge from realistic plasticity mechanisms.
 Currently, I am working on generalising these models to memory circuits in the hippocampus.
 
-See my [CV](/files/cv.pdf) and [past research projects](/projects) for additional details.
+See my [CV](/files/cv.pdf) and [past research projects](/projects) for details.
 

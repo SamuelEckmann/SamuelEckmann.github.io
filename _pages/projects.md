@@ -7,6 +7,8 @@ redirect_from:
   - /projects.html
 ---
 
+See my [CV](/files/CV.pdf) for ongoing projects, recent conference contributions, and invited talks.
+
 ## “Synapse-type-specific competitive learning forms functional recurrent networks”
 [Eckmann et al., 2024, PNAS](/files/Eckmann2024.pdf)
 
