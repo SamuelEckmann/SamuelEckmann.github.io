@@ -85,7 +85,7 @@ author:
   bio              : "Theoretical neuroscientist interested in neural circuits, E-I balance, and biological learning."
   location         : "Cambridge, UK"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=l5fRtqgAAAAJ"
   email            : "ec.sam@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -110,6 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "@Samuel_Eckmann"
+  bluesky          : "@samueleckmann.bsky.social"
   vine             :
   weibo            :
   xing             :
